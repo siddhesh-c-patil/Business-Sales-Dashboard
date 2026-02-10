@@ -34,9 +34,9 @@ The project demonstrates practical skills in data visualization, data modeling, 
 * Power BI File: .pbix dashboard file
 
 * Dashboard Pages:
-*  Sales Overview
-*  Regional & Category Analysis
-*  Customer Insights
+  * Sales Overview
+  * Regional & Category Analysis
+  * Customer Insights
 
 ### Disclaimer
 
